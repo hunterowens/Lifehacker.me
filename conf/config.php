@@ -2,13 +2,13 @@
 
 /*** VISUAL STYLE ***/
 $visual_style['background_image'] = ''; // Enter any full URL to a photo to use it as your background photo
-$visual_style['navigation_shadows'] = false; // Add shadows to your name and the navigation elements to make them easier to read on complex background images
+$visual_style['navigation_shadows'] = true; // Add shadows to your name and the navigation elements to make them easier to read on complex background images
 $visual_style['navigation_color'] = '#FFFFFF'; // Set this to any HEX color value to change the color of your name and navigation
 
 /*** ABOUT ME ***/
-$general['first_name'] = 'First'; // Just your first name
-$general['last_name'] = 'Last'; // Just your last name
-$general['about_me'] = ""; // This is where you can type information about yourself.  If you use any quotation marks, be sure to put a \ before them.
+$general['first_name'] = 'Hunter'; // Just your first name
+$general['last_name'] = 'Owens'; // Just your last name
+$general['about_me'] = "Student. Web Devloper. Political Junkie. Taco Fanatic."; // This is where you can type information about yourself.  If you use any quotation marks, be sure to put a \ before them.
 
 /*** PHOTOS ***/
 $general['about_photos'] = 'These are my awesome Flickr photos!'; // This is description that shows up in your photos section
@@ -21,6 +21,6 @@ $accounts['vimeo']['username'] = ''; // Entering your Vimeo username will displa
 $accounts['youtube']['username'] = ''; // Entering your YouTube username will display your public YouTube videos on your page
 
 /*** TWITTER ***/
-$accounts['twitter']['username'] = ''; // Entering your Twitter username will display your latest tweets on your page
+$accounts['twitter']['hunter_owens'] = ''; // Entering your Twitter username will display your latest tweets on your page
 
 ?>
